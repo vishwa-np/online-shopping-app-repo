@@ -1,0 +1,1 @@
+Online shopping App is my first object-oriented java based demo project. This is an e-commerce application developed using Java, Spring framework, Hibernate, and MySQL technologies. Explore the robust features and functionalities crafted with industry-standard tools to enhance your understanding of building scalable and efficient e-commerce solutions.
